@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614865344947",
+    "firebase_url": "https://khaana-laana.firebaseio.com",
+    "project_id": "khaana-laana",
+    "storage_bucket": "khaana-laana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614865344947:android:f787cd5a756af3c42753c6",
+        "android_client_info": {
+          "package_name": "com.example.khaanalaana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614865344947-op62gp3vsrr52c83fcm7rmujb9tdg88s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL48hoMG4VDvoax-h8UPisjkqEB6zKmCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614865344947-op62gp3vsrr52c83fcm7rmujb9tdg88s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
